@@ -1,0 +1,5 @@
+* Variables  es condicion determinada sobre la que obtendremos una informacion.
+ * Strings   es una cadena de texto
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if` declaraciones condicionales
+ * Valores booleanos (`true`, `false`)sew utiliza para almacenar informacion de que si cunmple o no cumple.
